@@ -2,21 +2,5 @@
   "synclogin":{
     "success":"true"
   },
-  "changepw":{
-    "success":"false",
-    "message":"Old password does not match with current password"
-  },
-  "getcashbalance":{
-    "name":"VIXP"
-  },
-  "getcashiername":{
-    "name":"Shohjahon"
-  },
-  "getsalescount":{
-    "count":4
-  },
-  "getstatus":{
-    "syncstatus":false,
-    "networkstatus":true
-  }
+
 }
