@@ -1,7 +1,7 @@
 {
   "synclogin": {
     "success": true,
-    "message":"Login success",
+    "message":"Login success"
   },
   "changepw": {
     "success": "false",
