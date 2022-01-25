@@ -8,7 +8,7 @@
     "message": "Old password does not match with current password"
   },
   "getCashBalance": {
-    "name": "VIXP"
+    "balance": 12000
   },
   "getCashierName": {
     "name": "Shohjahon"
