@@ -17,8 +17,8 @@
     "count": 4
   },
   "getStatus": {
-    "syncstatus": false,
-    "networkstatus": true
+    "syncStatus": false,
+    "networkStatus": true
   },
   "saveOrder":{
     "itemId":"ITEM_IBEX1234"
