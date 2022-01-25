@@ -1,6 +1,56 @@
 {
-  "synclogin":{
-    "success":"true"
+  "synclogin": {
+    "success": false
   },
-
+  "changepw": {
+    "success": "false",
+    "message": "Old password does not match with current password"
+  },
+  "getcashbalance": {
+    "name": "VIXP"
+  },
+  "getcashiername": {
+    "name": "Shohjahon"
+  },
+  "getsalescount": {
+    "count": 4
+  },
+  "getstatus": {
+    "syncstatus": false,
+    "networkstatus": true
+  },
+  "findorders": {
+    "list": [
+      {
+        "orderId": "ORDER_IBEX1234",
+        "tableId": "TABLE_IBEX1234",
+        "itemCount": 2,
+        "totalAmount": 12000.5
+      },
+      {
+        "orderId": "ORDER_IBEX1234",
+        "tableId": "TABLE_IBEX1234",
+        "itemCount": 2,
+        "totalAmount": 12000.5
+      },
+      {
+        "orderId": "ORDER_IBEX1234",
+        "tableId": "TABLE_IBEX1234",
+        "itemCount": 2,
+        "totalAmount": 12000.5
+      },
+      {
+        "orderId": "ORDER_IBEX1234",
+        "tableId": "TABLE_IBEX1234",
+        "itemCount": 2,
+        "totalAmount": 12000.5
+      },
+      {
+        "orderId": "ORDER_IBEX1234",
+        "tableId": "TABLE_IBEX1234",
+        "itemCount": 2,
+        "totalAmount": 12000.5
+      }
+    ]
+  }
 }
