@@ -1,24 +1,27 @@
 {
-  "synclogin": {
+  "login": {
     "success": true,
     "message":"Login success"
   },
-  "changepw": {
+  "changePassword": {
     "success": "false",
     "message": "Old password does not match with current password"
   },
-  "getcashbalance": {
+  "getCashBalance": {
     "name": "VIXP"
   },
-  "getcashiername": {
+  "getCashierName": {
     "name": "Shohjahon"
   },
-  "getsalescount": {
+  "getSalesCount": {
     "count": 4
   },
-  "getstatus": {
+  "getStatus": {
     "syncstatus": false,
     "networkstatus": true
+  },
+  "saveOrder":{
+    "itemId":"ITEM_IBEX1234"
   },
   "findorders": {
     "list": [

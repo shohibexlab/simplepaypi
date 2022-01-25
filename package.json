@@ -1,0 +1,20 @@
+{
+  "name": "simplepaypi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "json:server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shohibexlab/simplepaypi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shohibexlab/simplepaypi/issues"
+  },
+  "homepage": "https://github.com/shohibexlab/simplepaypi#readme"
+}
