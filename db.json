@@ -23,6 +23,30 @@
   "saveOrder":{
     "itemId":"ITEM_IBEX1234"
   },
+  "getItemGroups":{
+    "list": [
+      {
+        "itemGroupId": "ORDER_GROUP_ID_IBEX1234",
+      "name":"NAME_IBEX0"
+      },
+      {
+        "itemGroupId": "ORDER_GROUP_ID_IBEX1234",
+      "name":"NAME_IBEX1"
+      },
+      {
+        "itemGroupId": "ORDER_GROUP_ID_IBEX1234",
+      "name":"NAME_IBEX2"
+      },
+      {
+        "itemGroupId": "ORDER_GROUP_ID_IBEX1234",
+      "name":"NAME_IBEX3"
+      },
+      {
+        "itemGroupId": "ORDER_GROUP_ID_IBEX1234",
+      "name":"NAME_IBEX4"
+      }
+    ]
+  },
   "findorders": {
     "list": [
       {
