@@ -80,5 +80,45 @@
         "totalAmount": 12000.5
       }
     ]
+  },
+  "getCashInOutHistory":  {
+    "list":[
+      {"inOutId": "INOUT_IBEX1234",
+        "inOutType": "I",
+        "amount": 50000.0
+      },
+      {"inOutId": "INOUT_IBEX1234",
+        "inOutType": "I",
+        "amount": 50000.0,
+        "memo":"This is a memo example",
+        "inOutTime": "20220127121605"
+      },
+      {"inOutId": "INOUT_IBEX1234",
+        "inOutType": "I",
+        "amount": 50000.0,
+        "inOutTime": "20220127121605"
+      },
+      {"inOutId": "INOUT_IBEX1234",
+        "inOutType": "I",
+        "amount": 50000.0,
+        "memo":"This is a memo example2"
+      }
+    ]
+  },
+  "cashInOut":  {
+    "list":[
+      {"inOutId": "INOUT_IBEX12345"
+        
+      },
+      {"inOutId": "INOUT_IBEX12346"
+       
+      },
+      {"inOutId": "INOUT_IBEX12347"
+      
+      },
+      {"inOutId": "INOUT_IBEX12348"
+      }
+    ]
   }
+
 }
